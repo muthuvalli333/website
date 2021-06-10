@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.f6398228.chunk.css",
+    "main.js": "/website/static/js/main.00ac26f0.chunk.js",
+    "main.js.map": "/website/static/js/main.00ac26f0.chunk.js.map",
+    "runtime-main.js": "/website/static/js/runtime-main.d406ae1f.js",
+    "runtime-main.js.map": "/website/static/js/runtime-main.d406ae1f.js.map",
+    "static/js/2.0b620680.chunk.js": "/website/static/js/2.0b620680.chunk.js",
+    "static/js/2.0b620680.chunk.js.map": "/website/static/js/2.0b620680.chunk.js.map",
+    "index.html": "/website/index.html",
+    "static/css/main.f6398228.chunk.css.map": "/website/static/css/main.f6398228.chunk.css.map",
+    "static/js/2.0b620680.chunk.js.LICENSE.txt": "/website/static/js/2.0b620680.chunk.js.LICENSE.txt",
+    "static/media/about_vector.c42fe3db.png": "/website/static/media/about_vector.c42fe3db.png",
+    "static/media/contact_anime.1f3936c4.png": "/website/static/media/contact_anime.1f3936c4.png",
+    "static/media/developer3.60505f8f.gif": "/website/static/media/developer3.60505f8f.gif",
+    "static/media/muthu35577.a85a7921.jpg": "/website/static/media/muthu35577.a85a7921.jpg",
+    "static/media/skills_vector.1fb5f4a4.png": "/website/static/media/skills_vector.1fb5f4a4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d406ae1f.js",
+    "static/js/2.0b620680.chunk.js",
+    "static/css/main.f6398228.chunk.css",
+    "static/js/main.00ac26f0.chunk.js"
+  ]
+}
